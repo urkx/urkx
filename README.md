@@ -1,4 +1,4 @@
-I like things that runs bare metal
+SWE
 
 <!---
 urkx/urkx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
